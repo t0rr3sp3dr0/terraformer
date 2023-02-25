@@ -39,7 +39,6 @@ require (
 	github.com/terraform-providers/terraform-provider-openstack v1.18.0 // indirect
 	github.com/tomnomnom/linkheader v0.0.0-20180905144013-02ca5825eb80 // indirect
 	github.com/ugorji/go v1.1.2-0.20180728093225-eeb0478a81ae // indirect
-	github.com/unknwon/com v0.0.0-20181010210213-41959bdd855f // indirect
 	github.com/xlab/treeprint v0.0.0-20181112141820-a009c3971eca // indirect
 	github.com/zclconf/go-cty v1.0.1-0.20190708163926-19588f92a98f
 	github.com/zorkian/go-datadog-api v2.24.0+incompatible
@@ -48,7 +47,7 @@ require (
 	google.golang.org/genproto v0.0.0-20190307195333-5fe7a883aa19
 	gopkg.in/resty.v0 v0.4.1 // indirect
 	k8s.io/api v0.0.0-20190116205037-c89978d5f86d // indirect
-	k8s.io/apimachinery v0.0.0-20190116203031-d49e237a2683
+	k8s.io/apimachinery v0.15.7
 	k8s.io/client-go v7.0.0+incompatible
 	k8s.io/kubectl v0.0.0-20190502165022-ce8d9f55c93c
 )
